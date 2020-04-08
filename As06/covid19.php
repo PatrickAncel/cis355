@@ -50,8 +50,6 @@ arsort($country_array);
                     echo '<tr><td>' . $country . '</td><td>' . $country_array[$country] . '</td></tr>';
                 }
 
-                echo "</tbody></table></body>";
-
                 ?>
             </tbody>
         </table>
